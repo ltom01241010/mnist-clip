@@ -1,8 +1,6 @@
 # mnist-clip
 
-a super easy clip model with mnist dataset for study
-
-基于mnist手写数字训练的clip模型，用作学习多模态模型的用途，只能预测0-9
+a easy clip model with mnist dataset for study
 
 ## 模型
 
